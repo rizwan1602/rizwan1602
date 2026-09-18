@@ -1,46 +1,193 @@
-![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
-<h1 align="center">Hi 👋, I'm Syed Rizwan AHmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan1602&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan1602" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwan1602" alt="rizwan1602" /></a> </p>
+<img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/syedriz52465248" target="blank"><img src="https://img.shields.io/twitter/follow/syedriz52465248?logo=twitter&style=for-the-badge" alt="syedriz52465248" /></a> </p>
+# Hi, I'm Syed Rizwan Ahmed 👋
 
-- 🔭 I’m currently working on **Big Data Projects**
+### Physical AI & Industrial AI Specialist | Computer Vision · Digital Twins · Omniverse · Agentic AI
 
-- 🌱 I’m currently learning **Machine Learning , AI**
+<img src="https://komarev.com/ghpvc/?username=rizwan1602&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 👯 I’m looking to collaborate on **Pyhton , ML , AI**
+</div>
 
-- 🤝 I’m looking for help with **ML , AI**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/rizwan1602](https://github.com/rizwan1602)
+## 👤 About Me
 
-- 📝 I regularly write articles on [https://industrialgyan.com/](https://industrialgyan.com/)
+I work at the intersection of **Physical AI, Computer Vision, and Industrial AI** — bringing simulation, digital twins, and modern AI systems into real-world applications.
 
-- 💬 Ask me about **Machine Learning , AI**
+With ~7 years in **industrial automation** rooted in automotive manufacturing, I explore the integration of AI, robotics, computer vision, and industrial systems to develop intelligent solutions for the physical world.
 
-- 📫 How to reach me **srizwan232326@gmail.com**
+- 🤖 **Physical AI & Simulation:** Digital twins, robot learning, and synthetic environments using **NVIDIA Omniverse, Isaac Sim, and Isaac Lab**
+- 👁️ **Computer Vision & Deep Learning:** YOLO, object detection, image processing, and industrial vision systems
+- 🧠 **LLM-based & Agentic AI:** LLM applications, retrieval-augmented generation, AI agents, and intelligent workflows
+- 🌐 **Digital Twins:** Physics-based simulation and intelligent virtual representations of real-world systems
+- 🏭 **Industrial AI:** Predictive maintenance, smart manufacturing, and industrial data-driven applications
+- 💻 **Core Stack:** Python, PyTorch, OpenCV, FastAPI
+- 📝 I write on Physical AI, digital twins, and industrial AI at [**industrialgyan.com**](https://industrialgyan.com/)
+- 🌐 Prior international project experience: Toyota (Japan) and Harley-Davidson (Thailand)
+- 📫 Reach me at **srizwan232326@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="syed rizwan" height="30" width="40" /></a>
-<a href="https://twitter.com/syedriz52465248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedriz52465248" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedrizwangurgaon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedrizwangurgaon/" height="30" width="40" /></a>
-<a href="https://fb.com/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed rizwan" height="30" width="40" /></a>
-<a href="https://dribbble.com/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="syed rizwan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syed rizwan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syed rizwan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syed rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed rizwan" height="30" width="40" /></a>
+---
+
+## 🚀 Areas of Expertise
+
+### 🤖 Physical AI & Robotics
+
+- Physical AI
+- Reinforcement Learning (RL)
+- Vision-Language-Action (VLA) Models
+- Robotics Simulation
+- Robot Manipulation
+- NVIDIA Isaac Sim
+- NVIDIA Isaac Lab
+- NVIDIA Omniverse
+
+### 👁️ Computer Vision & Deep Learning
+
+- YOLO (Object Detection)
+- Real-time Object Detection
+- Industrial Computer Vision
+- Image Processing
+- OpenCV
+- Deep Learning
+- Camera-Based Inspection
+- Vision AI Applications
+
+### 🧠 Generative AI & Agentic Systems
+
+- Large Language Models (LLMs)
+- LLM-based Solutions
+- Agentic AI
+- AI Agents & Tool Calling
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Intelligent Workflow Automation
+
+### 🌐 Digital Twins & Intelligent Systems
+
+- Digital Twin Architecture
+- Physics-Based Simulation
+- Industrial AI
+- Predictive Maintenance
+- Real-time Data Processing
+- Smart Manufacturing
+
+---
+
+## 🛠️ Technical Skills
+
+**Computer Vision & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Physical AI / Simulation**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwan1602&show_icons=true&locale=en&layout=compact" alt="rizwan1602" /></p>
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Physical%20AI-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwan1602&show_icons=true&locale=en" alt="rizwan1602" /></p>
+**LLM / Agentic AI**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan1602&" alt="rizwan1602" /></p>
+<p>
+  <img src="https://img.shields.io/badge/LLMs-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
+
+**Software & Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Industrial Connectivity**
+
+<p>
+  <img src="https://img.shields.io/badge/Industrial%20IoT-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPC%20UA-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC%2FSCADA-607D8B?style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Featured Areas of Work
+
+### 🤖 Physical AI & Digital Twins
+
+Exploring intelligent robotic systems using simulation, reinforcement learning, and NVIDIA Omniverse.
+
+### 👁️ Computer Vision & YOLO
+
+Developing and exploring computer vision pipelines for object detection, real-time inspection, and intelligent automation.
+
+### 🧠 LLM-based Solutions & Agentic AI
+
+Building concepts around LLM-powered applications, AI agents, tool integration, and intelligent workflows.
+
+### 🌐 Intelligent Industrial Systems
+
+Combining machine learning, real-time data, and automation to explore intelligent industrial applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan1602&theme=default" alt="Syed Rizwan GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rizwan1602">
+    <img src="https://img.shields.io/badge/View%20All%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Repositories"/>
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/syedrizwangurgaon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://industrialgyan.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2965/2965879.png" alt="Blog" height="30" width="30" />
+  </a>
+
+  <a href="https://github.com/rizwan1602" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Exploring the Future of Physical AI, Computer Vision & Agentic Intelligence
+
+</div>
